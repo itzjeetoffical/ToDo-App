@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <h1>To-Do App</h1>
+        <p id="count">0 Tasks • 0 Completed</p>
+        <div class="top">
+            <input id="taskInput" type="text" placeholder="Enter Task">
+            <button id="addBtn">Add Task</button>
+        </div>
+
+        <ul id="taskList"></ul>
+        <p id="empty">No tasks yet. Add your first task⭐</p>
+
+        <div id="filters">
+            <button data-filter="all">All</button>
+            <button data-filter="completed">Completed</button>
+            <button data-filter="pending">Pending</button>
+        </div>
+        <button id="clearCompleted">Clear Compeleted</button>
+    <script src="script.js"></script>
+    </div>
+
+</body>
+</html>

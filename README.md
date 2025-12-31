@@ -27,12 +27,13 @@ A modern and professional To-Do Application built using **HTML, CSS & JavaScript
 ---
 
 ## 📸 Preview
-(Add 1–2 screenshots here)
+
+<img width="784" height="824" alt="Screenshot 2025-12-31 222049" src="https://github.com/user-attachments/assets/33ed6a9c-46e5-44fb-a129-93c9ecbc5b27" />
 
 ---
 
 ## ▶️ Live Demo
-🔗 (Add GitHub Pages Link)
+https://itzjeetoffical.github.io/ToDo-App/
 
 ---
 
